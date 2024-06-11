@@ -1,0 +1,13 @@
+com\example\demo\controller\FileController.class
+com\example\demo\DemoApplication.class
+com\example\demo\controller\G3Controller.class
+com\example\demo\common\MybatisPlusConfig.class
+com\example\demo\entity\Student.class
+com\example\demo\controller\G1Controller.class
+com\example\demo\common\Result.class
+com\example\demo\controller\StudentController.class
+com\example\demo\mapper\StudentMapper.class
+com\example\demo\entity\Rule.class
+com\example\demo\controller\RuleController.class
+com\example\demo\controller\G2Controller.class
+com\example\demo\mapper\RuleMapper.class
